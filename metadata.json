@@ -1,0 +1,5 @@
+{
+  "name": "AmiAI - Your Personal Assistant",
+  "description": "A mobile-style AI assistant with a custom knowledge base, Google Search grounding, and an animated character.",
+  "requestFramePermissions": ["microphone"]
+}
