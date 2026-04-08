@@ -1,5 +1,5 @@
 {
-  "name": "AmiAI - Your Personal Assistant",
-  "description": "A mobile-style AI assistant with a custom knowledge base, Google Search grounding, and an animated character.",
+  "name": "রাজকন্যা - আপনার AI সহকারী",
+  "description": "একটি উন্নত AI সহকারী যা আপনার দেওয়া তথ্যের ভিত্তিতে উত্তর দেয় এবং লাইভ মোডে কথা বলে।",
   "requestFramePermissions": ["microphone"]
 }
